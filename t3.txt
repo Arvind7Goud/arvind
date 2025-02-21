@@ -1,0 +1,2 @@
+vi filename is used for creating a file and after then we need to press ESC to write in the file when you complete writing you press ESC and :wq
+
